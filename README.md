@@ -1,5 +1,5 @@
 # conflict-test
 
-Ceci est le contenu initial du fichier.
+Ceci est un premier paragraphe, il faut le modifier, ce n'est pas encore le cas.
 
-Ceci en fait également partie mais sera supprimé dans une première branche.
+Ceci est un second paragraphe, il faut aussi le modifier, ce n'est pas encore le cas.
